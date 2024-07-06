@@ -7,7 +7,6 @@ This repository contains a Flask web application that predicts insurance charges
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [License](#license)
 
 ## Overview
 
@@ -63,7 +62,3 @@ To get this project up and running on your local machine, follow these steps:
 - `templates/Home.html`: The HTML template for displaying the prediction result.
 - `requirements.txt`: A list of Python dependencies required to run the application.
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
